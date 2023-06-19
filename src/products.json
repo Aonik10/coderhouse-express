@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "product 1",
+        "description": "description of the product 1",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/1",
+        "code": "code1",
+        "stock": 43
+    },
+    {
+        "id": 2,
+        "title": "product 2",
+        "description": "description of the product 2",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/2",
+        "code": "code2",
+        "stock": 43
+    },
+    {
+        "id": 3,
+        "title": "product 3",
+        "description": "description of the product 3",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/3",
+        "code": "code3",
+        "stock": 43
+    },
+    {
+        "id": 4,
+        "title": "product 4",
+        "description": "description of the product 4",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/4",
+        "code": "code4",
+        "stock": 43
+    },
+    {
+        "id": 5,
+        "title": "product 5",
+        "description": "description of the product 5",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/5",
+        "code": "code5",
+        "stock": 43
+    },
+    {
+        "id": 6,
+        "title": "product 6",
+        "description": "description of the product 6",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/6",
+        "code": "code6",
+        "stock": 43
+    },
+    {
+        "id": 7,
+        "title": "product 7",
+        "description": "description of the product 7",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/7",
+        "code": "code7",
+        "stock": 43
+    },
+    {
+        "id": 8,
+        "title": "product 8",
+        "description": "description of the product 8",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/8",
+        "code": "code8",
+        "stock": 43
+    },
+    {
+        "id": 9,
+        "title": "product 9",
+        "description": "description of the product 9",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/9",
+        "code": "code9",
+        "stock": 43
+    },
+    {
+        "id": 10,
+        "title": "product 10",
+        "description": "description of the product 10",
+        "price": 12,
+        "thumbnail": "https://productProvider.com/10",
+        "code": "code10",
+        "stock": 43
+    }
+]
